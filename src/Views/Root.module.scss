@@ -1,0 +1,23 @@
+.wrapper {
+  background-image: url("https://images.wallpapersden.com/image/download/covid-19-virus_69834_3840x2160.jpg");
+  min-width: max-content;
+  min-height: 100vh;
+  max-width: 400vh;
+  max-height: 500vh;
+  background-repeat:no-repeat;
+  background-size: auto;
+  background-position: center;
+  justify-content: center;
+  justify-items: center;
+  position: relative;
+  display: list-item;
+}
+
+.Chart {
+  width: fit-content;
+  height: fit-content;
+  justify-content: center;
+  justify-self: center;
+  margin-left: 30vh;
+  background-color: rgba(255, 255, 255, 0.7);
+}

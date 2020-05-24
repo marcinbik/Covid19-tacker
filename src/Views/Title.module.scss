@@ -1,0 +1,15 @@
+.title {
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+ 
+  flexGrow: 1;
+  position: 'relative';
+  whiteSpace: 'nowrap';
+  width: drawerWidth;
+  color: rgb(206, 206, 118,);
+  background-color: rgba(0, 98, 255, 0.367);
+  text-align: center;
+  padding-top: 20px;
+  height: 5vh;
+  font-family: 'Roboto Slab';
+  font-size: 900;
+}
